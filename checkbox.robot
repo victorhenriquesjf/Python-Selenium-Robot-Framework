@@ -23,7 +23,7 @@ Marcando por Css
     Sleep                           2       
    
 
-Marcando por xpath 
+Marcando por css 
     [Tags]      XP
     Go To                           ${url}/checkboxes
     Select Checkbox                 css:input[value='iron-man']
